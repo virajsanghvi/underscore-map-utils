@@ -9,7 +9,7 @@ This [underscore](http://documentcloud.github.com/underscore/) mixin gives you a
 
 # Usage
 
-<code>
+<pre>
     /**
      * Given a map, will return another map which
      * only includes/excludes key/value pairs
@@ -28,5 +28,5 @@ This [underscore](http://documentcloud.github.com/underscore/) mixin gives you a
      * @returns {Object} changeattributes map 
      */
     _.diffMap(old, now)
-</code>
+</pre>
 
